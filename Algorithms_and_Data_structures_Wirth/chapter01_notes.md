@@ -2,6 +2,7 @@
 
 
 > TODO:
+
 > tree data structure to act as a Set data structure
 
 Nothing new actually, already know what and how those work (int, float, bool, char, array, struct) but Set is new (new as in not existent in C but it could be built with trees - TODO for later)

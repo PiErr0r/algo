@@ -1,5 +1,9 @@
 # Chapter 1 - Fundamental data structures
 
+
+  TODO:
+  tree data structure to act as a Set data structure
+
 Nothing new actually, already know what and how those work (int, float, bool, char, array, struct) but Set is new (new as in not existent in C but it could be built with trees - TODO for later)
 But some thing should be noted, like algo to calculate fast power, or one to write negative powers of 2 which i don't exactly understand
 
@@ -114,7 +118,5 @@ int bm_search(char *s, int n, char *p, int m) {
 ```
 
 
-TODO:
-tree data structure to act as a Set data structure
 
 

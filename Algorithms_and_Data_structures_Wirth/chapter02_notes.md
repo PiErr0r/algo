@@ -1,5 +1,8 @@
 # Chapter 2 - Sorting
 
+> TODO:
+> Go over sequence sorting once again for better comprehension
+
 ## Simple sorts
 Insertion sort - when found item which is smaller than previous go down the list and insert it in the place where it isn't smaller than the previous item
 Binary insertion sort - intuitively it reduces the number of comparisons but upon closer inspection it is found out to be less efficient than its first implementation, and the number of swaps remains the same

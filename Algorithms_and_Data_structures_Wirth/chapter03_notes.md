@@ -3,6 +3,9 @@
 > TODO:
 > Hilbert curves and Sierpinski curves
 
+> TODO:
+> Revisit the exercises and algos for Stable Marriage -> End
+
 In the other news backtracking with Knight's tour and 8 Queens problem, nothing new there to say...
 
 One thing to be noted for representation of the data for he Queens problem

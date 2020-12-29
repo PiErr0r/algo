@@ -32,6 +32,8 @@ void simple_sorts() {
   disp(a, L);
   shake_sort(a, L);
   disp(a, L);
+
+  free(a);
   return;
 }
 

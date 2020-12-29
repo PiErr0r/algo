@@ -1,0 +1,3 @@
+# Chapter 4 - Dynamic information structures
+
+Linked lists and topological sort for now, nothing new...

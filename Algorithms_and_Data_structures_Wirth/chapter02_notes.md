@@ -3,7 +3,7 @@
 > TODO:
 > Go over sequence sorting once again for better comprehension
 
-use `cc chapter02.c helpers.c sorting.` to compile chapter02 code
+use `cc chapter02.c helpers.c sorting.c` to compile chapter02 code
 
 ## Simple sorts
 Insertion sort - when found item which is smaller than previous go down the list and insert it in the place where it isn't smaller than the previous item
